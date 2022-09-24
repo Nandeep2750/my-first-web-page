@@ -1,0 +1,70 @@
+body{font-family: "Comic Sans MS", Charcoal, sans-serif;
+	 background-color: #e65c00;
+	 color: #483C32;
+	}
+	
+h1  {font-size: 350%;
+	 text-align: center;
+	 text-transform: uppercase;
+	}
+	
+p   {font-size: 150%;
+	 line-height: 2.2;
+    }
+
+a   {color: #4E387E;
+	 text-decoration: none;
+    }
+	
+div {border-width: 2px;
+	 border-style: dashed;
+	 border-color: transparent;
+	 border-radius: 20px;
+	}
+
+.right{float: right;
+	  }
+img.snapshot{border-width: 10px;
+			 border-style: solid;
+			 border-color: #e65000;	
+			 border-radius: 20px;
+			 margin: 10px 10px 30px 10px;
+			 box-shadow: 7px 7px 15px rgba(0,0,0,.5);
+			}
+	  
+#layout{width: 60%;
+		margin: auto;
+		margin-top: 50px;
+	   }
+
+#main{background-color: #ff8533;
+	  padding: 30px;
+	  box-shadow: 10px 10px 25px rgba(0,0,0,.5);
+	 }
+
+#priority{background-color: #ffcd38;
+		  text-align: center;
+	 	  width: 75%;
+		  margin: auto;
+		  text-transform: lowercase;
+		  clear: both;
+		  font-weight: bold;
+		  font-size: 120%;
+		  box-shadow: 5px 5px 15px rgba(0,0,0,.5);
+		 }
+
+#priority a{color: #4E387E;}
+#priority a:hover{color: #4d4dff;}
+	 
+#footer{text-align: center;
+		text-transform: uppercase;
+		font-size : 80%;
+		font-weight: bold;
+		padding: 10px;
+		padding-top: 15px;
+	   }
+#footer a{color: #4E387E;}
+#footer a:hover{color: #4d4dff;}
+
+#footer img{margin: 15px;
+		   }	  
